@@ -5,9 +5,7 @@
 
 ## 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
@@ -15,9 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
 
----
 
-## Machine Learning
+### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn)
@@ -25,9 +22,8 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-111111?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-111111?style=for-the-badge&logo=tensorflow)
 
----
 
-## Generative AI
+### Generative AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
 ![Google Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google)
@@ -37,9 +33,8 @@
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-111111?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agent_Orchestration-111111?style=for-the-badge)
 
----
 
-## Frameworks & Backend
+### Frameworks & Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
@@ -47,18 +42,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
 
----
-
-## Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
 
----
-
-## DevOps & Tools
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes)
@@ -68,9 +59,8 @@
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-111111?style=for-the-badge)
 
----
 
-## Distributed Systems & Streaming
+### Distributed Systems & Streaming
 
 ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-111111?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/ApacheSpark-111111?style=for-the-badge&logo=apachespark)
