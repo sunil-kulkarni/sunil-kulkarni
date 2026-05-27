@@ -68,7 +68,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/sunil-kulkarni
+- LinkedIn: https://www.linkedin.com/in/sunil-kulkarni-71265036b
 - Email: sunildku9@gmail.com
 - My personal website: https://sunilkulkarni.netlify.app
 
